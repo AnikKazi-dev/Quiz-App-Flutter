@@ -13,7 +13,7 @@
 * [Screenshots](#screenshots)
 * [About the Project](#about-the-project)
 * [Key Features](#key-features)
-* [Built With](#build)
+* [Built With](#built-with)
 * [License](#license)
 * [Contact](#contact)
 
@@ -33,13 +33,12 @@
 
 ## About the project
 
-* **XXXXXX**: XXX.
-* **XXXX**: XXXXXXXX.
+* This is a quiz app where you can play a computer science related quiz game and you have to score 5 points to win.
 
 ## Key Features
 
-* **State management**: Redux, BloC, repository patterns .
-* **Backend connection**: API provider pattern.
+* Play and restart quiz
+* Random quiz questions
 
 ## Built With
 
